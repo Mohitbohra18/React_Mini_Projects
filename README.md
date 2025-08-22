@@ -34,6 +34,12 @@ cd React_Mini_Projects/03counter
 npm install
 ```
 
+## 📑 Table of Contents
+- [🔖 Badges](#-badges)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🎯 Purpose](#-purpose)
+- [📜 License](#-license)
+
 ---
 
 ## 🔖 Badges
